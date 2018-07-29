@@ -23,27 +23,27 @@ slides (preview, ppt, pdf)
 lecture notes (pdf, docx)  
 practice questions (pdf, docx)  
 
-Lecture 5 (date) - Cyclic AMP system I
-slides (preview, ppt, pdf)
-lecture notes (pdf, docx)
-practice questions (pdf, docx)
+Lecture 5 (date) - Cyclic AMP system I  
+slides (preview, ppt, pdf)  
+lecture notes (pdf, docx)  
+practice questions (pdf, docx)  
 
-Lecture 6 (date) - Cyclic AMP system II
-slides (preview, ppt, pdf)
-lecture notes (pdf, docx)
-practice questions (pdf, docx)
+Lecture 6 (date) - Cyclic AMP system II  
+slides (preview, ppt, pdf)  
+lecture notes (pdf, docx)  
+practice questions (pdf, docx)  
 
-Lecture 7 (date) - Cyclic GMP system I
-slides (preview, ppt, pdf)
-lecture notes (pdf, docx)
-practice questions (pdf, docx)
+Lecture 7 (date) - Cyclic GMP system I  
+slides (preview, ppt, pdf)  
+lecture notes (pdf, docx)  
+practice questions (pdf, docx)  
 
-Lecture 8 (date) - Cyclic GMP system II
-slides (preview, ppt, pdf)
-lecture notes (pdf, docx)
-practice questions (pdf, docx)
+Lecture 8 (date) - Cyclic GMP system II  
+slides (preview, ppt, pdf)  
+lecture notes (pdf, docx)  
+practice questions (pdf, docx)  
 
-Lecture 19 (date) - Hormone and receptor interactions
-slides (preview, ppt, pdf)
-lecture notes (pdf, docx)
-practice questions (pdf, docx)
+Lecture 19 (date) - Hormone and receptor interactions  
+slides (preview, ppt, pdf)  
+lecture notes (pdf, docx)  
+practice questions (pdf, docx)  
