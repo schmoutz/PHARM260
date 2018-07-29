@@ -8,20 +8,20 @@ slides (preview, ppt, pdf)
 lecture notes (pdf, docx)  
 practice questions (pdf, docx)
 
-Lecture 2 (date) - G-Protein-Coupled Receptors (GPRCRs) II 
-slides (preview, ppt, pdf)
-lecture notes (pdf, docx)
-practice questions (pdf, docx)
+Lecture 2 (date) - G-Protein-Coupled Receptors (GPRCRs) II  
+slides (preview, ppt, pdf)  
+lecture notes (pdf, docx)  
+practice questions (pdf, docx)  
 
-Lecture 3 (date) - G-Proteins
-slides (preview, ppt, pdf)
-lecture notes (pdf, docx)
-practice questions (pdf, docx)
+Lecture 3 (date) - G-Proteins I  
+slides (preview, ppt, pdf)  
+lecture notes (pdf, docx)  
+practice questions (pdf, docx)  
 
-Lecture 4 (date) - G-Proteins
-slides (preview, ppt, pdf)
-lecture notes (pdf, docx)
-practice questions (pdf, docx)
+Lecture 4 (date) - G-Proteins II  
+slides (preview, ppt, pdf)  
+lecture notes (pdf, docx)  
+practice questions (pdf, docx)  
 
 Lecture 5 (date) - Cyclic AMP system I
 slides (preview, ppt, pdf)
